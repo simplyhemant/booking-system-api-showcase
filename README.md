@@ -341,6 +341,4 @@ This is a **backend API showcase**, not a mobile app or storefront. It is meant 
 
 ---
 
-## Contributing
 
-[CONTRIBUTING.md](CONTRIBUTING.md) · [LICENSE](LICENSE) (MIT)
